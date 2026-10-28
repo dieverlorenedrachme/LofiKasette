@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Lo-fi rainy night room</title>
+  <desc id="desc">A cozy bedroom at night with a rainy window, moon, plants, desk and cassette player in a soft purple and amber palette.</desc>
+  <defs>
+    <linearGradient id="wall" x2="0" y2="1"><stop stop-color="#24244d"/><stop offset="1" stop-color="#55416e"/></linearGradient>
+    <linearGradient id="window" x2="0.8" y2="1"><stop stop-color="#172c52"/><stop offset="1" stop-color="#5a6794"/></linearGradient>
+    <linearGradient id="lamp" x2="0" y2="1"><stop stop-color="#ffd98a" stop-opacity=".65"/><stop offset="1" stop-color="#ffb65c" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#wall)"/>
+  <circle cx="930" cy="125" r="48" fill="#f7e8b5"/>
+  <circle cx="950" cy="108" r="48" fill="#24244d"/>
+  <g fill="#f9e9c5" opacity=".8"><circle cx="820" cy="95" r="3"/><circle cx="1040" cy="180" r="3"/><circle cx="745" cy="145" r="2"/><circle cx="1100" cy="70" r="2"/></g>
+  <rect x="95" y="85" width="440" height="360" rx="12" fill="#171a35" stroke="#b7a4d0" stroke-width="12"/>
+  <rect x="115" y="105" width="400" height="320" fill="url(#window)"/>
+  <path d="M315 105V425M115 265H515" stroke="#b7a4d0" stroke-width="10"/>
+  <g stroke="#b8d5ff" stroke-width="4" stroke-linecap="round" opacity=".65"><path d="M155 140l-20 45M215 210l-22 50M270 125l-18 42M370 175l-20 55M450 130l-18 40M475 300l-18 45M170 320l-20 42M390 330l-18 44M295 280l-18 45"/></g>
+  <path d="M0 600H1200V800H0Z" fill="#2b2342"/>
+  <path d="M0 620Q350 585 700 625T1200 610V800H0Z" fill="#372a4c"/>
+  <rect x="670" y="380" width="390" height="22" rx="8" fill="#a76f56"/>
+  <rect x="700" y="402" width="18" height="235" fill="#875743"/><rect x="1012" y="402" width="18" height="235" fill="#875743"/>
+  <rect x="740" y="300" width="120" height="80" rx="8" fill="#d0a7a2"/>
+  <rect x="751" y="312" width="98" height="55" rx="4" fill="#f4c8a2"/>
+  <circle cx="790" cy="338" r="18" fill="#e7a66f"/><path d="M775 330q15-25 30 0" fill="#6d4868"/>
+  <rect x="885" y="325" width="92" height="55" rx="5" fill="#1b2039" stroke="#c7a6d6" stroke-width="3"/>
+  <rect x="897" y="337" width="68" height="31" rx="3" fill="#b6c7df"/>
+  <path d="M900 360l15-12 12 8 14-14 22 18" fill="none" stroke="#6f76a5" stroke-width="3"/>
+  <ellipse cx="925" cy="430" rx="260" ry="130" fill="url(#lamp)"/>
+  <path d="M615 385h70l-12 22h-46z" fill="#e8c18c"/><path d="M650 385v-42" stroke="#e8c18c" stroke-width="8"/><path d="M620 343q30-70 60 0z" fill="#f6d59a"/>
+  <rect x="755" y="520" width="255" height="90" rx="18" fill="#5c4a72" stroke="#b6a1c8" stroke-width="4"/>
+  <rect x="780" y="537" width="205" height="54" rx="8" fill="#27243f"/>
+  <circle cx="820" cy="564" r="17" fill="#c9a5c9"/><circle cx="945" cy="564" r="17" fill="#c9a5c9"/><rect x="858" y="548" width="48" height="30" rx="4" fill="#d9b6a1"/>
+  <path d="M95 650q45-100 90 0" fill="#4c8b76"/><path d="M140 655q-70-80-65-120 55 25 65 120M145 650q15-100 70-110 8 65-70 110" fill="#579b80"/><rect x="105" y="650" width="75" height="70" rx="8" fill="#c17e68"/>
+  <path d="M0 750q160-35 300 0t300 0 300 0 300 0" fill="none" stroke="#78608c" stroke-width="3" opacity=".6"/>
+  <text x="70" y="755" font-family="sans-serif" font-size="24" fill="#d9c6eb" letter-spacing="6">SLOW DOWN • TUNE IN</text>
+</svg>
