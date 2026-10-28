@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">Retro lo-fi cassette</title>
+  <desc id="desc">A stylized lavender cassette tape floating over a dreamy sunset with stars and a pink horizon.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#1d2148"/><stop offset=".55" stop-color="#6e4e8c"/><stop offset="1" stop-color="#f39b9c"/></linearGradient>
+    <linearGradient id="tape" x2="1" y2="1"><stop stop-color="#f0c7e2"/><stop offset="1" stop-color="#8f79bd"/></linearGradient>
+    <filter id="shadow"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="1000" height="700" rx="28" fill="url(#sky)"/>
+  <circle cx="500" cy="350" r="185" fill="#ffb8b1" opacity=".22"/>
+  <g fill="#fff0d7"><circle cx="125" cy="120" r="4"/><circle cx="240" cy="190" r="3"/><circle cx="810" cy="135" r="4"/><circle cx="880" cy="245" r="3"/><circle cx="730" cy="85" r="2"/><circle cx="350" cy="85" r="3"/><circle cx="140" cy="330" r="2"/><circle cx="850" cy="420" r="3"/></g>
+  <g stroke="#fff0d7" stroke-width="3" stroke-linecap="round"><path d="M180 220v20m-10-10h20M795 300v20m-10-10h20M690 175v14m-7-7h14"/></g>
+  <path d="M0 520q180-45 330 0t340 0 330 0v180H0Z" fill="#292647" opacity=".72"/>
+  <ellipse cx="510" cy="385" rx="300" ry="180" fill="#17162f" opacity=".45" filter="url(#shadow)"/>
+  <g transform="rotate(-8 500 350)">
+    <rect x="230" y="205" width="540" height="300" rx="28" fill="url(#tape)" stroke="#f7d9ec" stroke-width="7"/>
+    <rect x="260" y="235" width="480" height="175" rx="16" fill="#343153"/>
+    <rect x="282" y="254" width="436" height="135" rx="10" fill="#5d5682"/>
+    <path d="M282 330q100-60 180 0t150 0 106-8v67H282Z" fill="#f0a3b3" opacity=".9"/>
+    <path d="M282 350q90-40 180 0t150-4 106-8v51H282Z" fill="#d6b0df" opacity=".9"/>
+    <circle cx="375" cy="322" r="43" fill="#f2d8e9" stroke="#272541" stroke-width="9"/><circle cx="375" cy="322" r="14" fill="#6c5a88"/>
+    <circle cx="625" cy="322" r="43" fill="#f2d8e9" stroke="#272541" stroke-width="9"/><circle cx="625" cy="322" r="14" fill="#6c5a88"/>
+    <path d="M420 300h160l-18 42H438Z" fill="#24233f"/><path d="M438 309h124l-10 23H448Z" fill="#e4c2e0"/>
+    <rect x="280" y="430" width="440" height="48" rx="8" fill="#d9b3d8" opacity=".95"/>
+    <text x="500" y="461" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="25" letter-spacing="9" fill="#39304f">LO-FI DREAMS</text>
+    <rect x="295" y="215" width="110" height="10" rx="5" fill="#fff0f3" opacity=".75"/>
+    <circle cx="700" cy="220" r="6" fill="#fff0f3"/><circle cx="680" cy="220" r="6" fill="#fff0f3"/>
+  </g>
+  <text x="500" y="625" text-anchor="middle" font-family="sans-serif" font-size="22" letter-spacing="8" fill="#fce5ef">PRESS PLAY • FIND YOUR FLOW</text>
+</svg>
